@@ -54,7 +54,7 @@ Public Class Check
         Dim hwidList As New List(Of String)
         Try
             Using client As New Net.Http.HttpClient()
-                Dim response As String = Await client.GetStringAsync("https://pastebin.com/raw/q5nMcidM")
+                Dim response As String = Await client.GetStringAsync("https://pastebin.com/raw/link")
                 Using reader As New StringReader(response)
                     While reader.Peek() <> -1
                         hwidList.Add(reader.ReadLine().Trim())
