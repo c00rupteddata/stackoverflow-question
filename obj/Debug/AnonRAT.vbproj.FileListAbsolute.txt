@@ -1,0 +1,16 @@
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.vbproj.AssemblyReference.cache
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.Resources.resources
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.vbproj.GenerateResource.cache
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.vbproj.CoreCompileInputs.cache
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\bin\Debug\AnonRAT.exe.config
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\bin\Debug\AnonRAT.exe
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\bin\Debug\AnonRAT.pdb
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\bin\Debug\AnonRAT.xml
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.exe
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.xml
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.pdb
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.About.resources
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.AnonRAT.resources
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.Check.resources
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.Builder.resources
+C:\Users\morge\OneDrive\Рабочий стол\f\AnonRAT\obj\Debug\AnonRAT.ScreenViewerForm.resources
